@@ -23,15 +23,15 @@ header .header-container {
     justify-content: start;
 }
 
-header .header-brand-img{
+header .header-brand-img {
     margin-left: 25px;
 }
 
-header .header-brand-img img{
+header .header-brand-img img {
     max-height: 100%;
 }
 
-.index-background{
+.index-background {
     display: flex;
     margin: 0px 0px;
     height: 100%;
@@ -39,20 +39,20 @@ header .header-brand-img img{
     align-items: center;
 }
 
-.background-img{
+.background-img {
     margin-bottom: 0px;
 }
 
-.background-img img{
+.background-img img {
     max-width: 100%;
 }
 
-.index-title{
+.index-title {
     display: flex;
     position: absolute;
 }
 
-.index-btn-helloWorld{
+.index-btn-helloWorld {
     height: 36px;
     border: 0;
     font-size: 14px;
@@ -101,17 +101,18 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.index-cookingSteps li h4{
+.index-cookingSteps li h4 {
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.index-ol-url a{
+.index-ol-url a {
     text-decoration: none;
     color: #671792;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-};
+}
 
+;
 .footer-container {
     display: flex;
     width: 100%;
